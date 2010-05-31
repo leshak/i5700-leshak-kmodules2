@@ -1,0 +1,4 @@
+#!/bin/sh
+
+make KDIR=/home/leshak/i5700.2/kernel/kernel-i5700.2
+cp *.ko /home/leshak/i5700.2/initramfs/lib/modules

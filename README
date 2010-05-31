@@ -1,0 +1,3 @@
+To build : 
+1. Enter module directory that you want to make module. 
+2. make KDIR=../../kernel PRJROOT=../../delta

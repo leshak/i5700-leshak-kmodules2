@@ -1,0 +1,26 @@
+#!/bin/sh
+
+cd ~/i5700.2/modules
+cd mfc
+../_mm1
+cd ..
+
+cd wlan
+../_mm1
+cd ..
+
+cd btgpio
+../_mm1
+cd ..
+
+cd dpram
+../_mm1
+cd ..
+
+cd multipdp
+../_mm1
+cd ..
+
+cd pp
+../_mm1
+cd ..
